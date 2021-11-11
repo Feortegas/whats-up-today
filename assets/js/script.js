@@ -11,14 +11,8 @@ var appointment =
     };
 
 
-// on page load - build working hours agenda - 8am-5pm
-var buildAgenda = function() {
-    // loop through the daily working hours
-    for (let i = 0; i < 9; i++) {
-        
-    }
+// on page load - load data from local storage
 
-};
 
 
 // after elements are created - style colors if past (gray) /present (red) /future (green)
