@@ -10,6 +10,10 @@
 - Moment.js
 
 
+## Live Page
+
+https://feortegas.github.io/whats-up-today/
+
 ## User Story
 
 AS AN employee with a busy schedule
